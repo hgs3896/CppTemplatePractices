@@ -14,7 +14,6 @@ EXECUTABLE	:= main
 all: $(BIN) $(BIN)/$(EXECUTABLE)
 
 run: clean all
-	clear
 	./$(BIN)/$(EXECUTABLE)
 
 $(BIN):

@@ -25,4 +25,4 @@ $(BIN)/$(EXECUTABLE): $(SRC)/*.cpp
 	$(CXX) $(CXX_FLAGS) -I$(INCLUDE) -L$(LIB) $^ -o $@ $(LIBRARIES)
 
 clean:
-	-rm $(BIN)/*
+	rm -rf $(BIN)/*

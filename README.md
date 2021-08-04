@@ -1,6 +1,7 @@
 # CppTemplatePractices
-C++의 템플릿을 연습하는 레포입니다.
-> To run the test, `make run`
+
+C++의 템플릿을 연습하는 레포입니다.  [![CI](https://github.com/hgs3896/CppTemplatePractices/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/hgs3896/CppTemplatePractices/actions/workflows/build.yml)  
+> To run the test, `make run`  
 
 ## 1. Semaphore
 

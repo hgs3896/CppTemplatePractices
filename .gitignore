@@ -34,3 +34,6 @@
 *.out
 *.app
 bin/*
+
+# Mac OS X Finder
+.DS_Store
